@@ -1,0 +1,165 @@
+{
+  "Food": [
+    "groceries",
+    "fruits_vegetables",
+    "dairy_bakery",
+    "dining_out",
+    "coffee_tea",
+    "snacks",
+    "delivery_fees",
+    "other"
+  ],
+  "Transport": [
+    "fuel",
+    "Metro",
+    "Bus",
+    "Auto",
+    "Bike",
+    "cab_ride_hailing",
+    "parking",
+    "tolls",
+    "vehicle_service",
+    "other"
+  ],
+  "Housing": [
+    "Rent",
+    "maintenance_hoa",
+    "property_tax",
+    "repairs_service",
+    "cleaning",
+    "furnishing",
+    "other"
+  ],
+  "Utilities": [
+    "Electricity",
+    "Water",
+    "Gas",
+    "Internet_broadband",
+    "Mobile_phone",
+    "TV_dth",
+    "other"
+  ],
+  "Health": [
+    "medicines",
+    "doctor_consultation",
+    "diagnostics_labs",
+    "insurance_health",
+    "fitness_gym",
+    "other"
+  ],
+  "Education": [
+    "books",
+    "courses",
+    "online_subscriptions",
+    "exam_fees",
+    "workshops",
+    "other"
+  ],
+  "Family_kids": [
+    "school_fees",
+    "daycare",
+    "toys_games",
+    "clothes",
+    "events_birthdays",
+    "other"
+  ],
+  "Entertainment": [
+    "movies_events",
+    "streaming_subscriptions",
+    "games_apps",
+    "outing",
+    "other"
+  ],
+  "Shopping": [
+    "clothing",
+    "footwear",
+    "accessories",
+    "electronics_gadgets",
+    "appliances",
+    "home_decor",
+    "other"
+  ],
+  "Subscriptions": [
+    "saas_tools",
+    "cloud_ai",
+    "newsletters",
+    "music_video",
+    "storage_backup",
+    "other"
+  ],
+  "Personal_care": [
+    "salon_spa",
+    "grooming",
+    "cosmetics",
+    "hygiene",
+    "other"
+  ],
+  "Gifts_donations": [
+    "gifts_personal",
+    "charity_donation",
+    "festivals",
+    "other"
+  ],
+  "Finance": [
+    "Salary",
+    "bank_charges",
+    "late_fees",
+    "interest",
+    "brokerage",
+    "other"
+  ],
+  "Business": [
+    "software_tools",
+    "hosting_domains",
+    "marketing_ads",
+    "contractor_payments",
+    "travel_business",
+    "office_supplies",
+    "other"
+  ],
+  "Travel": [
+    "flights",
+    "hotels",
+    "train_bus",
+    "visa_passport",
+    "local_transport",
+    "food_travel",
+    "other"
+  ],
+  "Home": [
+    "household_supplies",
+    "cleaning_supplies",
+    "kitchenware",
+    "small_repairs",
+    "pest_control",
+    "other"
+  ],
+  "Pet": [
+    "food",
+    "vet",
+    "grooming",
+    "supplies",
+    "other"
+  ],
+  "Taxes": [
+    "income_tax",
+    "gst",
+    "professional_tax",
+    "filing_fees",
+    "other"
+  ],
+  "Investments": [
+    "mutual_funds",
+    "stocks",
+    "fd_rd",
+    "gold",
+    "crypto",
+    "brokerage_fees",
+    "other"
+  ],
+  "Misc": [
+    "uncategorized",
+    "rounding",
+    "other"
+  ]
+}
