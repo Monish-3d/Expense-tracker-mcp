@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+#db related files
+expenses.db
+expenses.db-shm
+expenses.db-wal
